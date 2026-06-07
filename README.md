@@ -1,2 +1,2 @@
-# Majeedjava2026
+# Samueljava2026
 Assignment java
